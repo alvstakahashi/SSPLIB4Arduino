@@ -1,0 +1,11 @@
+sta_ker	KEYWORD2
+act_tsk KEYWORD2
+iact_ts KEYWORD2
+sta_cyc KEYWORD2
+stp_cyc KEYWORD2
+sta_alm KEYWORD2
+stp_alm KEYWORD2
+get_tim KEYWORD2
+tinib_task_set KEYWORD2
+cycinib_cychdr_set KEYWORD2
+alminib_almhdr_set KEYWORD2
