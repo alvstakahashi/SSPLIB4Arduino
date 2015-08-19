@@ -39,7 +39,6 @@ TOPPERS/SSPシュリンク版のArduinoライブラリです。
 
 　2)sta_kerを呼びます。
 
-Arduino UNO および　Pro Micro で動作は確認しています。
-
 5. タスクの１番は起動されます。　そこに必要な処理を書きます。
 
+Arduino UNO および　Pro Micro で動作は確認しています。
